@@ -1,3 +1,5 @@
+# NOTE: This was fixed in the [5.0.0-next.96](https://github.com/sveltejs/svelte/releases/tag/svelte%405.0.0-next.96) pre-release
+
 ## Live reproduction
 [https://svelte-head-replacement-bug.vercel.app/](https://svelte-head-replacement-bug.vercel.app/)
 Open the dev tools inspection, and observe the meta tags shift around when navigating to the subpage, and then back to the home page.
